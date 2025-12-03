@@ -1,4 +1,4 @@
-moi = {"firstname": "Ismail", "name": "Bennis", "promo": 2025, "group": "RT1"}
+moi = {"firstname": "Metehan", "name": "Erdogan", "promo": 2025, "group": "RT1"}
 print(f"votre nom est {moi['name']}, prénom est {moi['firstname']}, promo {moi['promo']}, groupe {moi['group']}")
 
 
