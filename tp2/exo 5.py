@@ -12,4 +12,3 @@ elif nb % 2 == 0 :
     print("Le nombre est ",signe,"et pair")
 else :
     print("Le nombre est",signe,"et impair")
-

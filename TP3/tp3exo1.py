@@ -4,4 +4,3 @@ for i in range(N+1):
     N = N + i
 
 print(N)
-
